@@ -1,0 +1,2 @@
+# ZAMI-OFFICIAL
+Zami channel
